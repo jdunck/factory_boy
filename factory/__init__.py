@@ -18,8 +18,8 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-__version__ = '1.0.2'  # Remember to change in setup.py as well!
-__author__ = 'Mark Sandstrom <mark@deliciouslynerdy.com>'
+__version__ = '1.0.3'  # Remember to change in setup.py as well!
+__author__ = 'Jeremy Dunck <jdunck@gmail.com>'
 
 from base import (
     Factory,
